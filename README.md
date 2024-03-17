@@ -1,16 +1,20 @@
-### Hi there 👋
+## 코딩 최고가 되고싶은 3년차 개발자
 
-<!--
-**amuileobsda/amuileobsda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 자주쓰는 기술스택
+**PHP**, **Node**, **Javascript**, **Jquery**, **Python**
 
-Here are some ideas to get you started:
+## 프로젝트
+### Development Experience
+- CRM통계관리시스템 개발 & CRM고도화 (`2023.10 ~ `) (`Web FE + BE`) (`참여인원1`) 
+- 여행사숙박 파트너 관리시스템구축 (`2023.07 ~ 2023.09`) (`Web FE + BE`) (`참여인원1`) 
+- P2E기반의 웹게임 개발 (`2023.04 ~ 2023.06`) (`Web FE + BE`) (`참여인원1`) 
+- 웹동화 구독플랫폼 개발 (`2022.02 ~ 2023.01`) (`Web FE + BE`) (`참여인원2`) 
+- IDC Server&Network Management (`2022.04 ~ 2022.12`) (`SE`) (`참여인원1`) (`토/계약직`)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Temporary Experience
+- ddaengshop PHP 5.x -> 7.x 버전업 및 마이그레이션 (`2024.01 ~ 2024.03`) (`아르바이트`)
+- aesroy 관리자 유지보수 및 고도화 (`2023.10 ~ `) (`아르바이트`)
+- 코오롱오토모티브 데이 사이트 취약점 점검 및 조치 (`2023.09`) (`아르바이트`)
+- 병역 (정보보호) (`2020 ~ 2021`) (`병역`)
+- Web FE / 인턴쉽 (`2019.09 ~ 2019.12`) (`인턴`)
+- Embed Web BE / 임베디드를 이용한 웹 서버 프로토타입 개발 (`2019.03 ~ 2019.08`) (`아르바이트`)
